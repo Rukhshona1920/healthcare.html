@@ -1,0 +1,27 @@
+body{
+    background-color: cyan;
+}
+element.style {
+}
+<style>
+body.mw-mmv-lightbox-open {
+    overflow-y: scroll;
+}
+body {
+    background-color: #f6f6f6;
+    overflow-y: scroll;
+}
+html, body {
+    font-family: sans-serif;
+}
+html, body {
+    height: 50%;
+}
+body {
+    margin: auto;
+}
+
+user agent stylesheet
+body {
+    display: contents;
+    margin: 14px;
